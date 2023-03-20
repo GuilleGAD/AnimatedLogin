@@ -1,4 +1,4 @@
-# animatedLogin
+# AnimatedLogin
 Animated Login Form Using HTML &amp; CSS
 
 Login sensillo listo para ser usando en un proyecto
