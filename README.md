@@ -5,4 +5,4 @@ Login sensillo listo para ser usando en un proyecto
 
 Tipos de fondos: https://www.wallpaperflare.com/digital-digital-art-artwork-illustration-minimalism-simple-wallpaper-gjwxk
 
-![Previsualización del Login](/preview.png)
+![Previsualización del Login](/images/preview.png)
